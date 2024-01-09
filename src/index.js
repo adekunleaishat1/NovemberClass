@@ -4,14 +4,18 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import 'bootstrap/dist/js/bootstrap.bundle.js'
 import 'font-awesome/css/font-awesome.min.css'
 import Home from './Home';
 import Navbar from './Component/Navbar';
+import { BrowserRouter,Route,Routes } from 'react-router-dom';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    <BrowserRouter>
+        <App/>
+    </BrowserRouter>
   </React.StrictMode>
 );
 

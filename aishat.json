@@ -1,0 +1,64 @@
+{
+  "post": [
+    {
+      "name": "aishat",
+      "email": "aishat@gmail.com",
+      "password": "yeesha",
+      "id": 1
+    },
+    {
+      "name": "tolani",
+      "email": "tolani@gmail.com",
+      "password": "tholani",
+      "id": 2
+    },
+    {
+      "email": "Sekinat@gmail.com",
+      "password": "023445",
+      "username": "Sekinat",
+      "id": 3
+    },
+    {
+      "email": "tyyyyy@gmail.com",
+      "password": "66666777",
+      "username": "ffffffffff",
+      "id": 4
+    },
+    {
+      "email": "bola@gmail.com",
+      "password": "2345678",
+      "username": "bolade",
+      "id": 5
+    }
+    
+  ],
+  "product":[
+      {
+        "id": 1,
+        "name":"iphone",
+        "category":"phone"
+      }, {
+        "id": 2,
+        "name":"samsong",
+        "category":"phone"
+      },
+      {
+        "id": 3,
+        "name":"rice",
+        "category":"food"
+      }, {
+        "id": 4,
+        "name":"beans",
+        "category":"food"
+      },
+      {
+        "id": 5,
+        "name":"earring",
+        "category":"jewelry"
+      }, {
+        "id": 6,
+        "name":"necklace",
+        "category":"jewelry"
+      }
+  ]
+}
